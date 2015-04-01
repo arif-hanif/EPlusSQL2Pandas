@@ -5,6 +5,10 @@ __pycache__/
 # C extensions
 *.so
 
+
+#Ignore sql (too big)
+*.sql
+
 # Distribution / packaging
 .Python
 env/
